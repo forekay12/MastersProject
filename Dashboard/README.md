@@ -3,4 +3,4 @@ A web application that uses Python, Flask and Chart.js to create a real-time bar
 
 ## To Run
 First run code inside TwitterStream-ApacheSpark folder (Twitter Stream and Spark Streaming App).
-Third run app.py
+Third run MastersProject/Dashboard/app.py
